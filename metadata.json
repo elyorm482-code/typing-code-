@@ -1,0 +1,6 @@
+{
+  "name": "CodeBattle - Responsive Developer Speed Typing & Code Arena",
+  "description": "High-octane competitive code typing platform optimized across all viewports from 320px mobile to 1920px desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
